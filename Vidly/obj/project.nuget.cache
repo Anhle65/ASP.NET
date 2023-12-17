@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Txm+9xnZ+PYdyIEKoZqHSaet95kJe4oaZ5Mb8wS74LtzMkAYiWooQdXV7XiFr44gws4GDAvUvxIrX4ZxBqqMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\ASP.NET\\Vidly\\Vidly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
